@@ -36,9 +36,9 @@
   "dependencies": {
     "d3-dispatch": "1",
     "d3-drag": "1",
-    "d3-interpolate": "1",
+    "d3-interpolate": "https://github.com/schutterp/d3-interpolate.git#DOMMatrix",
     "d3-selection": "1",
-    "d3-transition": "1"
+    "d3-transition": "https://github.com/schutterp/d3-transition.git#DOMMatrix"
   },
   "devDependencies": {
     "eslint": "6",
